@@ -288,3 +288,12 @@ code：icbf
 |densnet40|||||[link]()|
 |googlenet|||||[link]()|
 |u2net|||||[link]()|
+## Citation
+
+```
+@inproceedings{DCTPruning,
+  title={Discrete Cosine Transform for Filter Pruning},
+  author={Yaosen Chen, Renshuang Zhou,},
+  year={2022}
+}
+```
