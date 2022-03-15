@@ -276,7 +276,8 @@ The results of the test will be saved in '/data/DUTS/u2netp_DUTS-TE_results'. Th
 python Binary-Segmentation-Evaluation-Tool/quan_eval_demo.py
 ```
 
-In order to quickly verify the experimental results, the pruned model is provided below for quick verification:
+In order to quickly verify the experimental results, the pruned model is provided below for quick verification：https://pan.baidu.com/s/1Pr1xWPPBXS4cNJk5X1mn4g 
+code：icbf
 
 |Architecture|Params|Flops|Compress_rate|Accuracy|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
