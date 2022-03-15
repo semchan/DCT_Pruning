@@ -17,16 +17,17 @@ The relevant software versions used in use are as follows:
 - CUDA 10.0
 
 ## Pre-trained Models
-
-|Dateset|Models|link|
-|:---:|:---:|:---:|
-|Cifar10|VGG16|[link]()|
-|Cifar10|ResNet56|[link]()|
-|Cifar10|ResNet110|[link]()|
-|Cifar10|DensNet40|[link]()|
-|Cifar10|GoogleNet|[link]()|
-|ImageNet|ResNet50|[link]()|
-|DUTS|U<sup>2</sup>Net|[link]()|
+The pre-trained models used in our paper has been uploaded here:https://pan.baidu.com/s/1a1vUhsmdK_5GvGdfo5M1QQ 
+code：mddg.
+|Dateset|Models|
+|:---:|:---:|
+|Cifar10|VGG16|
+|Cifar10|ResNet56|
+|Cifar10|ResNet110|
+|Cifar10|DensNet40|
+|Cifar10|GoogleNet|
+|ImageNet|ResNet50|
+|DUTS|U<sup>2</sup>Net|
 
 ## Dataset
 
