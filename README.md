@@ -1,5 +1,5 @@
 # Discrete Cosine Transform for Filter Pruning
-This Repository mainly introduces a method of channel pruning using discrete cosine transform. Our paper has been accepted by [Applied Intelligence](https://www.springer.com/journal/10489). Part of the code is referenced from: [HRank: Filter Pruning using High-Rank Feature Map](https://github.com/lmbxmu/HRankPlus). Thanks for their great work before.
+This Repository mainly introduces a method of channel pruning using discrete cosine transform. Our paper[Discrete Cosine Transform for Filter Pruning](https://link.springer.com/article/10.1007/s10489-022-03604-2) has been accepted by [Applied Intelligence](https://www.springer.com/journal/10489). Part of the code is referenced from: [HRank: Filter Pruning using High-Rank Feature Map](https://github.com/lmbxmu/HRankPlus). Thanks for their great work before.
 
 The following is the framework of this method:
 
