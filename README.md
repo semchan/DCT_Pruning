@@ -293,7 +293,9 @@ code：icbf
 ```
 @inproceedings{DCTPruning,
   title={Discrete Cosine Transform for Filter Pruning},
-  author={Yaosen Chen, Renshuang Zhou,},
-  year={2022}
+  author={Yaosen Chen, Renshuang Zhou, Bing Guo, Yan Shen, Wei Wang, Xuming Wen & Xinhua Suo },
+  journal={Applied Intelligence},
+  year={2022},
+  publisher={Springer}
 }
 ```
